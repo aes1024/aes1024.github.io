@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-permalink: /blog/:year/:month/:day/:title/
+permalink: /musical-umbrella/:year/:month/:day/:title/
 title: 随笔
 description: AES1024随笔
