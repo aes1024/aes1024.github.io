@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-permalink: /:categories/:year/:month/:title/
+permalink: /:categories/:year/:month/:day/:title/
 title: 随笔
 description: AES1024随笔
